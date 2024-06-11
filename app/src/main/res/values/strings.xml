@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Load dog photo</string>
+    <string name="random_dog">Random dog</string>
+    <string name="choose_breed">Choose breed</string>
+    <string name="update_image">Update image</string>
+    <string name="download_photo">Download photo</string>
+    <string name="error_message">Something went wrong</string>
+</resources>
